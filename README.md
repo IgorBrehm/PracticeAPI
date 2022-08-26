@@ -21,6 +21,7 @@
 
 	Leite: {
 		id: String,
+		classe: String,
 		tipo: String,
 		contemLactose: Boolean,
 		teorGordura: Integer,
@@ -29,6 +30,7 @@
 	},
 	Cafe: {
 		id: String,
+		classe: String,
 		tipo: String,
 		contemCafeina: Boolean,
 		marca: String,
@@ -36,6 +38,7 @@
 	},
 	Cerveja: {
 		id: String,
+		classe: String,
 		tipo: String,
 		contemAlcool: Boolean,
 		teorAlcoolico: Integer,
