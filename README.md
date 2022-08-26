@@ -4,6 +4,10 @@
 
 	Você deverá desenvolver uma CRUD API voltada para a administração de uma lista de compras.
 	O banco de dados será tratado como o carrinho de compras.
+	
+## Banco de Dados
+
+	Poderá ser utilizado o MySQL.
 
 ## Definição dos Endpoints
 
@@ -45,6 +49,7 @@
 	2. Testes unitários.
 	3. Tratamento de exceções. (Se precisar)
 	4. Respeitar clean code e SOLID.
+	5. Criar os scripts de configuração das tabelas do banco de dados.
 	
 ## Requisitos: Parte 2
 
